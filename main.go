@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-var ver = "1.0"
+var ver = "1.1"
 
 func main() {
 	fmt.Printf("hello world (version: %s)\n", ver)
